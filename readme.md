@@ -1,6 +1,6 @@
 ## Responsive Calculator for only Desktop Size : 1920px and Mobile Size : 375px
 
-Live Link - https://yokesh-ks.github.io/JavaScript_Projects/ResponsiveCalculator/
+Live Link - https://yokesh-ks.github.io/ResponsiveCalculator-v1/
 
 ![Responsive Calculator](screenshot.png)
 
